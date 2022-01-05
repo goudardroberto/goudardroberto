@@ -23,7 +23,7 @@
   <img align="center" alt="Goud-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="Goud-Post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Goud-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-  <img align="right" src="https://user-images.githubusercontent.com/91286418/148227758-959af930-00fc-4d17-b0fd-d319272739fd.gif" width="200" height="200" />
+  <img align="right" src="https://user-images.githubusercontent.com/91286418/148233558-ad03d668-92bb-45c5-925c-437dc64cd1b2.gif" width="200" height="200" />
 </div>
   
   ##
